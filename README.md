@@ -1,6 +1,6 @@
-# Sewciety
+# Sewciety V1
 
-Website for Sewciety, the sewing club at the University of Waterloo. Built with TanStack Start, React and Tailwind.
+Temporary website for Sewciety, the sewing club at the University of Waterloo. Built with TanStack Start, React and Tailwind.
 
 ## Development
 
